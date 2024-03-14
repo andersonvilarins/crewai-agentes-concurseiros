@@ -1,0 +1,17 @@
+# variáveis de ambiente
+.env
+
+#Cache folders
+__pycache__/
+
+# documentos de texto e planilhas
+*.docx
+*.doc
+*.txt
+*.pdf
+*.xls
+*.xlsx
+*.csv
+
+
+
